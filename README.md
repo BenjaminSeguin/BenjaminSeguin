@@ -1,4 +1,4 @@
-- Current Msc. Financial Engineering at HEC Montreal, writing a thesis on monetizing sentimental analysis with LLMs.
+- Current Msc. Financial Engineering student at HEC Montreal, writing a thesis on monetizing sentimental analysis with LLMs.
 - I interned in equity research (fundamental) and data science and quantitative strategies at CDPQ.
 - I will soon start a new internship in global markets at CDPQ.
 - I am an aspiring hedge fund quant and will post here some of my personal projects.
