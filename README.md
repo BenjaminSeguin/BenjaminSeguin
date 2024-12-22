@@ -1,6 +1,6 @@
-- Current Msc. Financial Engineering student at HEC Montreal, writing a thesis on monetizing sentimental analysis with LLMs.
-- I interned in equity research (fundamental) and data science and quantitative strategies at CDPQ.
-- I will soon start a new internship in global markets at CDPQ.
+- Current Msc. Financial Engineering student at HEC Montreal, writing a thesis on portfolio construction using state-of-the art NLP techniques.
+- I interned in equity research (fundamental) , data science and quantitative strategies, and quant global equity markets at CDPQ.
+- I will soon start an academic research position with prof David Ardia from HEC Montreal
 - I am an aspiring hedge fund quant and will post here some of my personal projects.
 
 <!---
