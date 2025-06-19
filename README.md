@@ -1,9 +1,15 @@
-- Current Msc. Financial Engineering student at HEC Montreal, writing a thesis on portfolio construction using state-of-the art NLP techniques.
-- I interned in equity research (fundamental) , data science and quantitative strategies, and quant global equity markets at CDPQ.
-- I will soon start an academic research position with prof David Ardia from HEC Montreal
-- I am an aspiring hedge fund quant and will post here some of my personal projects.
+🧠 About Me
 
-<!---
-BenjaminSeguin/BenjaminSeguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Financial Engineering MSc. student at HEC Montréal, with a strong focus on AI and quantitative research.
+
+📊 Finished writing a research thesis on portfolio construction using sentiment extracted from earnings calls, leveraging transformer-based NLP models and large language models.
+
+🧪 I previously interned in equity research, data science, and quantitative global equity strategies at CDPQ, covering over $2B in AUM.
+
+📚 Starting a new academic research position with Prof. David Ardia, working on financial econometrics.
+
+🤖 I’m exploring the use of self-supervised learning architectures like JEPA, along with semantic filters, to identify latent market surprises in financial discourse.
+
+🏦 I aim to transition into a quant researcher role at a hedge fund or deep-tech lab, with interests spanning AI-native trading, regime detection, and causal inference in market dynamics.
+
+This GitHub is where I document my personal research prototypes, quant experiments, and explorations in machine learning applied to finance.
