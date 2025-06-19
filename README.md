@@ -1,6 +1,6 @@
 🧠 About Me
 
-I'm a Financial Engineering MSc. student at HEC Montréal, with a strong focus on AI and quantitative research.
+I'm a Financial Engineering MSc. graduate from HEC Montréal, with a strong focus on AI and quantitative research.
 
 📊 Finished writing a research thesis on portfolio construction using sentiment extracted from earnings calls, leveraging transformer-based NLP models and large language models.
 
