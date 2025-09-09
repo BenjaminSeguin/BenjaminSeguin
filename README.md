@@ -1,6 +1,6 @@
 🧠 About Me
 
-Graduate of MSc Financial Engineering (HEC Montréal), currently in the M2 IASD program at Université Paris Dauphine - PSL. My journey in quantitative research has evolved into a passion for fundamental artificial intelligence—with a vision to create models and tools that push the boundaries of learning architectures and representation across domains.
+Graduate of MSc Financial Engineering (HEC Montréal), currently in the M2 IASD program at Université Paris Dauphine - PSL. My journey in quantitative research has evolved into a passion for fundamental artificial intelligence with a vision to create models and tools that push the boundaries of learning architectures and representation across domains.
 
 🎓 Current Focus
 
