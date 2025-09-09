@@ -1,15 +1,23 @@
 🧠 About Me
+Graduate of MSc Financial Engineering (HEC Montréal), currently in the M2 IASD program at Université Paris Dauphine - PSL. My journey in quantitative research has evolved into a passion for fundamental artificial intelligence—with a vision to create models and tools that push the boundaries of learning architectures and representation across domains.
 
-I'm a Financial Engineering MSc. graduate from HEC Montréal, with a strong focus on AI and quantitative research.
+🎓 Current Focus
+My work is now centered on core AI research: self-supervised learning, joint-embedding architectures (JEPA), energy-based models, and large-scale representation learning. I am preparing for a CIFRE PhD focused on advancing these AI methods and exploring transformative applications in healthcare and neuroscience, notably in biomedicine and neural data.
 
-📊 Finished writing a research thesis on portfolio construction using sentiment extracted from earnings calls, leveraging transformer-based NLP models and large language models.
+🔬 Open-Source Contributions
+- spantest: R package for mean-variance portfolio spanning tests, implementing classic and modern econometric frameworks for complex asset sets. (https://github.com/ArdiaD/spantest)
 
-🧪 I previously interned in equity research, data science, and quantitative global equity strategies at CDPQ, covering over $2B in AUM.
+- RSDC: R package for regime-switching correlation modeling, with advanced transition probability structures for time-varying multivariate systems. (https://github.com/ArdiaD/RSDC)
+Both are official releases co-authored or contributed, providing robust tools for high-dimensional statistical modeling. These packages reflect my roots in rigorous software development and research reproducibility.
 
-📚 Starting a new academic research position with Prof. David Ardia, working on financial econometrics.
+🚀 Research Vision & Next Steps
+My research vision is to leverage advanced AI architectures for cross-domain impact—especially in health and neuroscience. Current interests include:
 
-🤖 I’m exploring the use of self-supervised learning architectures like JEPA, along with semantic filters, to identify latent market surprises in financial discourse.
+- Self-Supervised and energy-based learning for discovering latent structure in biological data
 
-🏦 I aim to transition into a quant researcher role at a hedge fund or deep-tech lab, with interests spanning AI-native trading, regime detection, and causal inference in market dynamics.
+- Neural and clinical data fusion using joint embedding models
 
-This GitHub is where I document my personal research prototypes, quant experiments, and explorations in machine learning applied to finance.
+- Bridging theoretical AI breakthroughs and impactful healthcare technologies
+
+👨‍💻 Technical Stack
+Python, PyTorch, Scikit-learn, R, survival analysis, deep learning, self-supervised architectures, Spark, cloud compute, open-source methodologies.
