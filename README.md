@@ -4,7 +4,7 @@ Graduate of MSc Financial Engineering (HEC Montréal), currently in the M2 IASD 
 
 🎓 Current Focus
 
-My work is now centered on core AI research: self-supervised learning, joint-embedding architectures (JEPA), energy-based models, and large-scale representation learning. I am preparing for a CIFRE PhD focused on advancing these AI methods and exploring transformative applications in healthcare and neuroscience, notably in biomedicine and neural data.
+My work is now centered on core AI research: self-supervised learning, joint-embedding architectures (JEPA), energy-based models, large-scale representation learning, causal inference, and multimodal data. I am preparing for a PhD focused on advancing these AI methods and exploring transformative applications in healthcare and neuroscience.
 
 🔬 Open-Source Contributions
 
