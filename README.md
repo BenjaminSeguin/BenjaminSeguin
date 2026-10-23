@@ -1,28 +1,16 @@
-🧠 About Me
+# Benjamin Séguin
 
-Graduate of MSc Financial Engineering (HEC Montréal), currently in the M2 IASD program at Université Paris Dauphine - PSL. My journey in quantitative research has evolved into a passion for fundamental artificial intelligence with a vision to create models and tools that push the boundaries of learning architectures and representation across domains.
+I recently completed an M.Sc. in Applied Maths and Computer Science (IASD) at Université PSL. My research internship, with Clément W. Royer at LAMSADE, was on nonconvex optimization for data science.
 
-🎓 Current Focus
+Before that, I completed an M.Sc. in Financial Engineering at HEC Montréal, then worked as a research assistant with David Ardia and in quantitative research at La Caisse (CDPQ).
 
-My work is now centered on core AI research: self-supervised learning, joint-embedding architectures (JEPA), energy-based models, large-scale representation learning, causal inference, and multimodal data. I am preparing for a PhD focused on advancing these AI methods and exploring transformative applications in healthcare and neuroscience.
+I am currently looking for a CIFRE PhD or a research-oriented role in industry.
 
-🔬 Open-Source Contributions
+### Open source
 
-- spantest: R package for mean-variance portfolio spanning tests, implementing classic and modern econometric frameworks for complex asset sets. (https://github.com/ArdiaD/spantest)
+- [RSDC](https://github.com/ArdiaD/RSDC): R package for regime-switching correlation models, on [CRAN](https://cran.r-project.org/package=RSDC).
+- [spantest](https://github.com/ArdiaD/spantest): R package for mean-variance spanning tests, on [CRAN](https://cran.r-project.org/package=spantest).
 
-- RSDC: R package for regime-switching correlation modeling, with advanced transition probability structures for time-varying multivariate systems. (https://github.com/ArdiaD/RSDC)
-Both are official releases co-authored or contributed, providing robust tools for high-dimensional statistical modeling. These packages reflect my roots in rigorous software development and research reproducibility.
+### Contact
 
-🚀 Research Vision & Next Steps
-
-My research vision is to leverage advanced AI architectures for cross-domain impact—especially in health and neuroscience. Current interests include:
-
-- Self-Supervised and energy-based learning for discovering latent structure in biological data
-
-- Neural and clinical data fusion using joint embedding models
-
-- Bridging theoretical AI breakthroughs and impactful healthcare technologies
-
-👨‍💻 Technical Stack
-
-Python, PyTorch, Scikit-learn, R, survival analysis, deep learning, self-supervised architectures, Spark, cloud compute, open-source methodologies.
+[Website](https://benjaminseguin.github.io) · [LinkedIn](https://www.linkedin.com/in/benjamin-s%C3%A9guin/) · benjamin.seguin@outlook.fr
